@@ -1,3 +1,3 @@
-FROM temporalio/ui:2.20.2
+FROM temporalio/ui:2.20.0
 
 ARG TEMPORAL_ADDRESS TEMPORAL_CORS_ORIGINS
